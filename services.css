@@ -1,0 +1,40 @@
+.services {
+    background-color: #000;
+}
+
+.services__title {
+    color: #fff;
+
+}
+
+.services {
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.services__list {
+    margin-bottom: 60px;
+}
+
+.services__img-box {
+    height: 270px;
+}
+
+.services__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.services__list-title {
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.9px;
+    color: #fff;
+}
+
+.services__list:last-child {
+    margin-bottom: 0;
+}
